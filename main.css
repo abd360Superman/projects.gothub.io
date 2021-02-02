@@ -1,0 +1,23 @@
+#apps {
+    background-color:aqua;
+}
+#myApp, #myArtLab, #bot {
+    height:auto;
+    width: auto;
+    margin: 20px;
+}
+#art {
+    background-color:darkcyan;
+}
+#chatbot {
+    background-color:deepskyblue;
+}
+body {
+    background-color:chocolate;
+    margin:15px;
+    text-align: center;
+}
+h1, h2{
+    color:gold;
+    font-family: monospace;
+}
